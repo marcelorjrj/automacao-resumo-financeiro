@@ -1,0 +1,18 @@
+Sistema de Resumo de Gastos
+Sobre
+Sistema em Python que processa planilhas de gastos empresariais e gera relatorios em PDF.
+Funcionalidades
+
+Leitura de planilhas de gastos
+Geracao automatica de resumos
+Exportacao para PDF
+
+Como Usar
+git clone https://github.com/marcelorjrj/nome-do-repositorio
+cd nome-do-repositorio
+pip install -r requirements.txt
+python main.py
+Desenvolvedor
+Joao Marcelo Nogueira De Barros
+Desenvolvedor de Software - Automacao
+GitHub: https://github.com/marcelorjrj
